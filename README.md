@@ -18,6 +18,8 @@ Independent AI researcher. No lab, no supervisor — just a machine and a resear
 
 My work sits at the intersection of **neural signal processing**, **non-standard data modalities**, and **ML systems under real hardware constraints**. I compete in ML challenges as a forcing function for depth, not rankings.
 
+Recent work also includes **IMAGINE**, a cross-domain MEG decoding pipeline for mental imagery that combines localizer-to-imagery transfer, temporal search, and complementary MEG feature branches.
+
 ---
 
 ### What I Work With
@@ -50,6 +52,7 @@ Classical ML         →   XGBoost · LightGBM · Stacking · Bayesian optimizat
 
 | | Project | What it is |
 |---|---|---|
+| 🧠 | IMAGINE | Cross-domain MEG decoding of mental imagery with LDA + prototype matching, built as a research-style pipeline |
 | 🌌 | [MALLORN](https://github.com/ivarick/MALLORN-Transient-Detection) | TDE detection from astronomical lightcurves — physics-informed features + semi-supervised ensembling |
 | ♟ | [Chess Transformer Engine](https://github.com/ivarick/Chess-Transformers-Engine) | Move prediction via self-attention trained on 2M PGN games |
 | 🔥 | [Wildfire Monitoring](https://github.com/ivarick/AI-Based-Wildfire-Monitoring-System) | Multi-stage fire prediction pipeline integrating satellite + sensor data |
